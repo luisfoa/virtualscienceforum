@@ -7,11 +7,17 @@ hide:
 {% from 'registration.md' import registration_form %}
 # Floquet Summer School
 <!-- use the time  -->
-**<time data-format="MMMM D H:mm" datetime="2022-05-18T14:30:00+00:00">XXXXX</time>–<time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">22:00</time>, <time data-format="MMMM D H:mm" datetime="2022-05-19T14:30:00+00:00">May 19 14:30</time>–<time data-format="H:mm" datetime="2022-05-19T20:00:00+00:00">22:00</time>** (all times are in <span class="timezone">CET</span> timezone)
+
+**September 13 and 14 from 14:00 to 17:10 GMT**
+**and September 20, 21 and 22 from 15:00 to 17:00 GMT**
+
+<!--- **<time data-format="MMMM D H:mm" datetime="2022-05-18T14:30:00+00:00">XXXXX</time>–<time data-format="H:mm" datetime="2022-05-18T20:00:00+00:00">22:00</time>, <time data-format="MMMM D H:mm" datetime="2022-05-19T14:30:00+00:00">May 19 14:30</time>–<time data-format="H:mm" datetime="2022-05-19T20:00:00+00:00">22:00</time>** (all times are in <span class="timezone">CET</span> timezone)
+-->
+
 
 
 <!-- add the logo to media folder -->
-![school logo](media/logo.png){ width="600" }
+![school logo]([media/logo.png)](https://lab.sentef.org/wp-content/uploads/2021/03/PtW_McIver_RMP_Col_Fig1_build_18_0001-1024x683.png){ width="600" }
 
 The Floquet Summer School will bring together leading researchers in the field of Floquet quantum systems to provide introductory lectures aimed at graduate students working in the field or interested in learning about it. The lectures will take place online via Zoom.
 
@@ -19,13 +25,25 @@ The Floquet Summer School will bring together leading researchers in the field o
 
 ## Program
 
-|           | Sep 13 (Tuesday) |       Sep 14 (Wednesday)      |   Sep 20 (Tuesday)  |  Sep 21 (Wednesday) | Sep 22 (Thursday) |
-|-----------|:----------------:|:-----------------------------:|:-------------------:|:-------------------:|:-----------------:|
-| 14:00 GMT | Takashi Oka      | Takashi Oka                   |                     |                     |                   |
-| 15:00 GMT | Mark Rudner      | Mark Rudner                   | Anushya Chandran    | Anushya Chandran    | Mikael Rechtsman  |
-| 16:00 GMT | Xavier Waintal   | Xavier Waintal / Thomas Kloss | Monika Aidelsburger | Monika Aidelsburger | Mikael Rechtsman  |
+### Week 1:
 
-List of lectures:
+|           | Sep 13 (Tuesday) |       Sep 14 (Wednesday)      |
+|-----------|:----------------:|:-----------------------------:|
+| 14:00 GMT | Takashi Oka      | Takashi Oka                   |
+| 15:00 GMT | Mark Rudner      | Mark Rudner                   |
+|           | break (10')      | break (10')                   |
+| 16:10 GMT | Xavier Waintal   | Xavier Waintal / Thomas Kloss |
+
+
+### Week 2:
+
+|           |   Sep 20 (Tuesday)  |  Sep 21 (Wednesday) | Sep 22 (Thursday) |
+|-----------|:-------------------:|:-------------------:|:-----------------:|
+| 15:00 GMT | Anushya Chandran    | Anushya Chandran    | Mikael Rechtsman  |
+| 16:00 GMT | Monika Aidelsburger | Monika Aidelsburger | Mikael Rechtsman  |
+
+
+### List of lectures:
 
 ??? summary "Basics of Floquet engineering of quantum materials *by Takashi Oka*"
 
@@ -90,8 +108,8 @@ List of lectures:
 
 ## Organizers
 
-* Michael Sentef
-* Babak Seradjeh
-* Luis E. F. Foà Torres
+* [Michael Sentef](https://lab.sentef.org/michael-sentef/)
+* [Babak Seradjeh](https://qdyn.physics.indiana.edu/)
+* [Luis E. F. Foà Torres](https://www.foatorres.com/)
 
 If you have any questions, you may reach us via [FloquetSchool@virtualscienceforum.org](mailto:FloquetSchool@virtualscienceforum.org)
